@@ -1,0 +1,6 @@
+{
+  "name": "Water Sort Puzzle Landing Page",
+  "description": "A highly optimized, SEO-friendly, responsive landing page to promote the Water Sort Puzzle Android game by Tactic Minds Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
